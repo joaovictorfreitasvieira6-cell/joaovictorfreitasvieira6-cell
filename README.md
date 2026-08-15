@@ -10,7 +10,7 @@
 
 
 
-### 🚀 About Me
+###  About Me
 
 Backend-focused developer building AI-powered automation systems and integrations. Experienced in Python, Java (Spring Boot), and Node.js, with hands-on work designing n8n workflows, RAG pipelines with vector search (Pinecone + OpenAI embeddings), and custom MCP servers for CRM automation (Zoho). Freelance background delivering full-stack systems — from database design to client-facing dashboards — with a strong focus on clean, production-ready code. Currently seeking internship/junior opportunities in backend development while completing an ADS degree in Brazil.
 
