@@ -9,6 +9,17 @@
 </p>
 
 
+
+### 🚀 About Me
+
+- 🎓 ADS student in Brazil, pursuing internship/junior developer opportunities in **backend development**
+- 🔧 Hands-on experience with **Python, Java (Spring Boot), Node.js, React and n8n**
+- 🤖 Building **AI-powered integrations** — RAG pipelines, MCP servers, and CRM automation
+- 📜 Certified in **Python (SENAI)** and **Microsoft Power Platform (PL-900)**
+- 💼 Freelance experience building sites and systems with database integration
+
+---
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -21,29 +32,6 @@
 <img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 ---
-
-### 🚀 About Me
-
-- 🎓 ADS student in Brazil, pursuing internship/junior developer opportunities in **backend development**
-- 🔧 Hands-on experience with **Python, Java (Spring Boot), Node.js, React and n8n**
-- 🤖 Building **AI-powered integrations** — RAG pipelines, MCP servers, and CRM automation
-- 📜 Certified in **Python (SENAI)** and **Microsoft Power Platform (PL-900)**
-- 💼 Freelance experience building sites and systems with database integration
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
 
 **AI & Automation:**
 
