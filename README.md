@@ -26,8 +26,13 @@ Backend-focused developer building AI-powered automation systems and integration
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+## 🛠️ Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,python,postgres,supabase,docker,linux,git&perline=6)](https://skillicons.dev)
+
+</div>
 ---
 
 **AI & Automation:**
