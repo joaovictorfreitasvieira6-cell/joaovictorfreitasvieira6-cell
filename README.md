@@ -20,10 +20,9 @@ Backend-focused developer building AI-powered automation systems and integration
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,python,postgres,supabase,docker,linux,git&perline=6)](https://skillicons.dev)
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-## 🛠️ Stack
+
 
 <div align="center">
 
