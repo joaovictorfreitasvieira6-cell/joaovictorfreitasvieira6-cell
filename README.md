@@ -1,69 +1,65 @@
-<p align="center"><img src="desert-banner.jpg" alt="Desert banner" width="100%" />
-</p>
 <h1 align="center">Hi, I'm João Victor </h1>
- 
+
 <h3 align="center">Backend Developer & Automation Engineer in training</h3>
- 
+
 <p align="center">
   Systems Analysis & Development (ADS) student focused on backend development,
   <br />
   building AI-powered automation and system integrations.
 </p>
- 
- 
+
 ###  I build systems that still work after the demo
- 
- 
+
 Backend-focused developer building AI-powered automation systems and integrations. Experienced in Python, Java (Spring Boot), and Node.js, with hands-on work designing n8n workflows, RAG pipelines with vector search (Pinecone + OpenAI embeddings), and custom MCP servers for CRM automation (Zoho). Freelance background delivering full-stack systems — from database design to client-facing dashboards — with a strong focus on clean, production-ready code. Currently seeking internship/junior opportunities in backend development while completing an ADS degree in Brazil.
- 
- 
+
 ---
- 
+
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,python,postgres,supabase,docker,linux,git&perline=6)](https://skillicons.dev)
- 
+
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
- 
+
 <div align="center">
- 
+
 </div>
 ---
- 
+
 **AI & Automation:**
- 
+
 <p align="left">
   <img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zoho%20CRM-C8202F?style=flat-square&logo=zoho&logoColor=white" />
 </p>
+
 ---
- 
+
 ### 📌 Featured Projects
- 
+
 | Project | Description | Stack |
 |---|---|---|
-| **Zoho CRM MCP Server** | Python MCP server with OAuth, read-only tools, and 17 automated tests using `respx` | `Python` `MCP` `OAuth` |
-| **RAG Workflow (n8n + Pinecone)** | Retrieval-augmented generation pipeline using OpenAI embeddings and a Pinecone dense index | `n8n` `Pinecone` `OpenAI` |
-| **CRM Lead Automation** | Automated pipeline importing leads from Google Sheets into Zoho CRM as Deals, using an AI agent to generate deal names | `n8n` `Groq` `Zoho CRM` |
-| **WhatsApp Support Bot** | Ticketing chatbot with multi-step flow and per-number conversation memory | `Node.js` `whatsapp-web.js` `n8n` |
- 
+| **Zoho CRM MCP Server** | Python MCP server with OAuth, read-only tools, and 17 automated tests using respx | Python MCP OAuth |
+| **RAG Workflow (n8n + Pinecone)** | Retrieval-augmented generation pipeline using OpenAI embeddings and a Pinecone dense index | n8n Pinecone OpenAI |
+| **CRM Lead Automation** | Automated pipeline importing leads from Google Sheets into Zoho CRM as Deals, using an AI agent to generate deal names | n8n Groq Zoho CRM |
+| **WhatsApp Support Bot** | Ticketing chatbot with multi-step flow and per-number conversation memory | Node.js whatsapp-web.js n8n |
+
 ---
- 
+
 ### 📫 Let's Connect
- 
+
 <p align="left">
-  <a href="mailto:joaovictorfreitasvieira6@gmail.com">
+  <a href="mailto:YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/joao-victor-freitas-vieira-046b26387">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 ---
- 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovictorfreitasvieira6-cell&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
- 
+</p> coloca aqui mas eu queria uma paisagem  mais real se eu te manda uma sera da pra coloca ou voce consegue deixa essa mais real
