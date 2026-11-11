@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="assets/desert-banner.jpg" alt="Desert banner" width="100%" />
+<p align="center"><img src="desert-banner.jpg" alt="Desert banner" width="100%" />
 </p>
 <h1 align="center">Hi, I'm João Victor </h1>
  
