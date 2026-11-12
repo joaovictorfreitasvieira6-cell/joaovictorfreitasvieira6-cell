@@ -62,4 +62,3 @@ Backend-focused developer building AI-powered automation systems and integration
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovictorfreitasvieira6-cell&show_icons=true&theme=tokyonight&hide_border=true" />
-</p> coloca aqui mas eu queria uma paisagem  mais real se eu te manda uma sera da pra coloca ou voce consegue deixa essa mais real
